@@ -6,7 +6,7 @@
   src: url("https://github.com/powercord-org/powercord-backend/blob/my-awesome-branch/packages/web/src/fonts/discord-font.otf?raw=true") format("opentype");
 }
 .wordmark-2iDDfm:after {
-  content: "llameow#9734 - (443287359425871872)";
+  content: "my id: 443287359425871872";
   font-size: 15px;
   position: absolute;
   width: 4000px;
